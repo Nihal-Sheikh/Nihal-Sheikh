@@ -20,7 +20,7 @@
 
   <h2 style="color:#FF5722;">🌟 Projects</h2>
   <ul>
-    <li><strong><a href="https://propersistant.netlify.app/">:</a></strong> An app to handle your day to day activities</li>
+    <li><strong><a href="https://propersistant.netlify.app/">Persistant:</a></strong> An app to handle your day to day activities</li>
     <li><strong><a href="https://ambient-rgb.netlify.app/">AmbientRGB:</a>a></strong> Helping you focus or relax, whatever your mood is....</li>
     <li><strong>Robotics & Drones Projects:</strong>Many Interdisciplinary projects combining hardware and software including pond drowning detector and alarm system</li>
     <li><strong>Transistor Calculator:</strong> Built a calculator entirely using transistor logic.</li>
@@ -30,7 +30,7 @@
 
   <h2 style="color:#9C27B0;">📫Want to know more? Visit my portfolio or connect with me</h2>
   <p>
-    <a href="https://nihalsheikhsvelte.netlify.app" style="color:#FF5722; text-decoration:none;">Portfolio / Blog</a> | 
+    <a href="https://nihalsheikhsvelte.netlify.app" style="color:#FF5722; text-decoration:none;">Portfolio and Blog</a> | 
     Email: <a href="mailto:nihal.s.sheikh@outlook.com" style="color:#4CAF50; text-decoration:none;">nihal.s.sheikh@outlook.com</a>
   </p>
 
