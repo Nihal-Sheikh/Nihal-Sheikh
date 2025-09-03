@@ -21,7 +21,7 @@
   <h2 style="color:#FF5722;">🌟 Projects</h2>
   <ul>
     <li><strong><a href="https://propersistant.netlify.app/">Persistant:</a></strong> An app to handle your day to day activities</li>
-    <li><strong><a href="https://ambient-rgb.netlify.app/">AmbientRGB:</a>a></strong> Helping you focus or relax, whatever your mood is....</li>
+    <li><strong><a href="https://ambient-rgb.netlify.app/">AmbientRGB:</a></strong> Helping you focus or relax, whatever your mood is....</li>
     <li><strong>Robotics & Drones Projects:</strong>Many Interdisciplinary projects combining hardware and software including pond drowning detector and alarm system</li>
     <li><strong>Transistor Calculator:</strong> Built a calculator entirely using transistor logic.</li>
   </ul>
