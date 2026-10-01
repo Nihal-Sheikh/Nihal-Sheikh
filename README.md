@@ -7,7 +7,7 @@
 
   <hr style="border:1px solid #eee; margin:20px 0;">
 
-  <h2 style="color:#2196F3;">🛠️ Skills & Tech Stack</h2>
+  <h2 style="color:#2196F3;">Skills & Tech Stack</h2>
   <ul>
     <li><strong>Programming & Software:</strong> Python, JavaScript, Typescripts, C++, Git, SvelteKit, React, MongoDB, Express JS, NodeJS, Powershell scripts</li>
     <li><strong>Design: </strong> Figma, Illustrator</li>
