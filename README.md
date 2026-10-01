@@ -3,7 +3,7 @@
   <h1 style="color:#4CAF50;">Hi there, I'm Nihal</h1>
   <p>I'm a <strong>student, software engineer, and tech enthusiast</strong> passionate about 
   <strong>robotics, drones, and building innovative tech</strong>. I love working on 
-  <strong>interdisciplinary projects</strong> that combine hardware, software, and biology.</p>
+  <strong>interdisciplinary projects</strong> that combine hardware and software.</p>
 
   <hr style="border:1px solid #eee; margin:20px 0;">
 
